@@ -64,8 +64,11 @@ public int getloan()
 public string getborrower()
 
 {
+
     return;
+    
 }
+
 public int get salary()
 
 {
