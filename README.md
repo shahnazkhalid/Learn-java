@@ -96,7 +96,7 @@ public setsalary(int salary)
 
 {
 
-This.salary=salary
+This.salary=salary;
 
 }
 
