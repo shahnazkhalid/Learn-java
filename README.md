@@ -48,15 +48,23 @@ system.out.println("just night time");
     private int salary;
 
 public int getloan()
+
 {
+
     return loan; 
  
  }
+ 
 public string getborrower()
+
 {
+
     return borrower;
+    
 }
+
 public int get salary()
+
 {
     return salary;
 }
@@ -64,15 +72,16 @@ public int get salary()
 public void setloan(int loan)
 
 {
+
 This.loan=loan;
  
 }
 
 public void setborrower(String borrower)
+
 {
 
 This.borrower=borrower;
-
 
 }
 
